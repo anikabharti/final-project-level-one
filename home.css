@@ -1,0 +1,26 @@
+body{
+text-align:center;	
+}
+#header{
+color:lightblue;
+}
+h3{
+color:blue;	
+}
+#menu{
+display:flex;
+padding:10px;
+background-color:lightyellow; 	
+justify-content:space-around
+}
+
+img{
+width:75%;
+}
+#about{
+text-align:center;	
+}
+
+read thourg the summary files -- no more than each concept --- on each single day -- convept 
+
+bootstrap 
